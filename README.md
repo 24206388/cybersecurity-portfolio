@@ -5,3 +5,12 @@ Hello! I am **SUN HANFEI**, a passionate cybersecurity enthusiast and student cu
 
 * **Current Role:** Student 
 * **Interests:** Network Security, Machine Learning in Security, Vulnerability Analysis.
+
+## 2. Technical Skills
+
+My technical toolkit includes a blend of security tools, programming, and data analysis frameworks:
+
+* **Languages & Frameworks:** Python (Flask, Scapy, Pandas, Seaborn, joblib).
+* **Machine Learning:** Random Forest, XGBoost, Data Augmentation (SDV).
+* **Network Security:** Nmap, ACLs, UFW, EIGRP configuration, MAC flooding mitigation.
+* **Vulnerability Management:** Shodan API, NVD API, CVSS metrics analysis.
