@@ -18,3 +18,13 @@ My technical toolkit includes a blend of security tools, programming, and data a
 ## 3. Certifications and Training
 
 * **WQE7001 Cyber Security:** University of Malaya (In Progress).
+
+## 4. Project Experience
+
+### Project A: Active Defense Dashboard with ML
+
+**Objective:** Developed a real-time dashboard to classify network traffic and log incidents using machine learning.
+
+* **Tools:** Flask, Scapy, Machine Learning (Random Forest/XGBoost).
+* **Methodology:** Captured real-time traffic using Scapy, processed features, and fed them into a trained ML model for classification.
+* **Outcome:** Successfully created a visual interface that flags malicious traffic patterns and assists in immediate incident response.
