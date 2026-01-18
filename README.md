@@ -28,3 +28,10 @@ My technical toolkit includes a blend of security tools, programming, and data a
 * **Tools:** Flask, Scapy, Machine Learning (Random Forest/XGBoost).
 * **Methodology:** Captured real-time traffic using Scapy, processed features, and fed them into a trained ML model for classification.
 * **Outcome:** Successfully created a visual interface that flags malicious traffic patterns and assists in immediate incident response.
+### Project B: Vulnerability Analysis & Risk Assessment Tool
+
+**Objective:** Automated the assessment of CVE risks by integrating public threat intelligence sources.
+
+* **Tools:** Python, Shodan API, NVD API, Pandas, Seaborn.
+* **Methodology:** Aggregated data from Shodan and NVD to correlate device exposures with known vulnerabilities (CVEs).
+* **Outcome:** Delivered a tool that generates visual reports (using Seaborn) to prioritize patching based on CVSS scores and exploitability.
