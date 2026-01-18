@@ -35,3 +35,15 @@ My technical toolkit includes a blend of security tools, programming, and data a
 * **Tools:** Python, Shodan API, NVD API, Pandas, Seaborn.
 * **Methodology:** Aggregated data from Shodan and NVD to correlate device exposures with known vulnerabilities (CVEs).
 * **Outcome:** Delivered a tool that generates visual reports (using Seaborn) to prioritize patching based on CVSS scores and exploitability.
+
+## 5. Learning Journey
+
+Throughout the WQE7001 course and my personal projects, I have deepened my understanding of how offensive and defensive strategies intersect.
+
+* **Progress:** I have moved from basic scripting to building complex security tools that leverage AI.
+* **Challenges:** Initially, integrating real-time packet capture (Scapy) with a web framework (Flask) was challenging due to concurrency issues.
+* **Future Goals:** I plan to improve my skills in reverse engineering and obtain the [Insert Certification Name, e.g., OSCP] certification.
+
+## 6. Career Objective
+
+To leverage my skills in Python automation and machine learning to secure enterprise networks as a **Cybersecurity Analyst** or **Security Engineer**.
