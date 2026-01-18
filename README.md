@@ -14,3 +14,7 @@ My technical toolkit includes a blend of security tools, programming, and data a
 * **Machine Learning:** Random Forest, XGBoost, Data Augmentation (SDV).
 * **Network Security:** Nmap, ACLs, UFW, EIGRP configuration, MAC flooding mitigation.
 * **Vulnerability Management:** Shodan API, NVD API, CVSS metrics analysis.
+
+## 3. Certifications and Training
+
+* **WQE7001 Cyber Security:** University of Malaya (In Progress).
